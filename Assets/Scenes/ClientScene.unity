@@ -439,7 +439,7 @@ MonoBehaviour:
   waitBeforeSend: 1
   clientUseWss: 1
   clientWebsocketSettings:
-    ClientPortOption: 0
+    ClientPortOption: 1
     CustomClientPort: 7777
   minimumLogLevel: 3
 --- !u!1660057539 &9223372036854775807
