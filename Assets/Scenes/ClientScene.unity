@@ -437,7 +437,7 @@ MonoBehaviour:
   port: 27777
   batchSend: 1
   waitBeforeSend: 1
-  clientUseWss: 0
+  clientUseWss: 1
   clientWebsocketSettings:
     ClientPortOption: 0
     CustomClientPort: 7777
